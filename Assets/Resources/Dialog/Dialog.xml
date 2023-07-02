@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dialog>
+		<number>0</number>
+		<character>2</character>
+		<name>불길한 존재</name>
+		<sentence>끝이라고 생각했느냐?</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>0</number>
+		<character>1</character>
+		<name>나</name>
+		<sentence>….</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>0</number>
+		<character>2</character>
+		<name>불길한 존재</name>
+		<sentence>내 몸의 마나를 폭주시켰다. 곧 엄청난 폭발이 일어나겠지</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>0</number>
+		<character>1</character>
+		<name>나</name>
+		<sentence>!!!!!</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>0</number>
+		<character>2</character>
+		<name>불길한 존재</name>
+		<sentence>자 내 마지막 선물이다, 악몽을 이겨낸 자여. 이것도 이겨낼 수 있겠는가?! 크흐흐</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>1</number>
+		<character>3</character>
+		<name>국왕</name>
+		<sentence>요즘 이상한 몬스터들이 너무 많으니 좀 잡아주겠는가?</sentence>
+		<next>2</next>
+	</dialog>
+	<dialog>
+		<number>2</number>
+		<character>3</character>
+		<name>국왕</name>
+		<sentence>고맙네, 혹시 모르니 전설의 물약을 가지고가게</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>2</number>
+		<character>0</character>
+		<name>...</name>
+		<sentence>전설의 물약을 얻었다!</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>3</number>
+		<character>4</character>
+		<name>국왕</name>
+		<sentence>내가 잘못들었는가?</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>3</number>
+		<character>5</character>
+		<name>국왕</name>
+		<sentence>뭐???</sentence>
+		<next>2</next>
+	</dialog>
+	<dialog>
+		<number>4</number>
+		<character>0</character>
+		<name>...</name>
+		<sentence>갑자기 공간이 뒤틀린다</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>5</number>
+		<character>6</character>
+		<name>불길한 영웅</name>
+		<sentence>아직이다</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>5</number>
+		<character>1</character>
+		<name>나</name>
+		<sentence>….</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>6</number>
+		<character>3</character>
+		<name>국왕</name>
+		<sentence>이번에도 실패로군…</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>6</number>
+		<character>3</character>
+		<name>국왕</name>
+		<sentence>31059회 실험종료, 다시 과거로 돌아가겠다.</sentence>
+		<next>-1</next>
+	</dialog>
+</root>
